@@ -4,16 +4,16 @@ Para fins de estudo.
 Sempre quiz aprender como funciona a integração com um meio de pagamento qualquer, escolhi a E-Rede por já ter dado manutenção em um fonte em PHP na empresa onde trabalho.
 A intenção deste projeto é desenvolver um pequeno ecommerce, utilizando as tecnologias:
 
-Back-end
-Nodejs
-MongoDB
-Knex
-Express
+# Back-end
+- Nodejs
+- MongoDB
+- Knex
+- Express
 
-Front-end
-ReactJs
-styled-components
-axios
+# Front-end (colocarei o link do repositório assim que começar a desenvolver)
+- ReactJs
+- styled-components
+- axios
 
 Features
 - [x] Valida os dados do cartão (vencimento, numero, etc)
