@@ -18,5 +18,5 @@ axios
 Features
 - [x] Valida os dados do cartão (vencimento, numero, etc)
 - [x] Cancela uma transação
-- Realiza a captura do valor junto a emissora de cartão
-- Possiblidade de implementar um Anti-fraude (E-Rede, ClearSale, etc)
+- [ ] Realiza a captura do valor junto a emissora de cartão
+- [ ] Possiblidade de implementar um Anti-fraude (E-Rede, ClearSale, etc)
