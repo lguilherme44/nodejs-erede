@@ -16,7 +16,7 @@ styled-components
 axios
 
 Features
-[x] - Valida os dados do cartão
-[] - Realiza a captura do valor junto a emissora de cartão
-[x] - Cancela uma transação
-[] - Possiblidade de implementar um Anti-fraude (E-Rede, ClearSale, etc)
+- [x] Venus Valida os dados do cartão
+- [] Realiza a captura do valor junto a emissora de cartão
+- [x] Venus Cancela uma transação
+- [] Possiblidade de implementar um Anti-fraude (E-Rede, ClearSale, etc)
