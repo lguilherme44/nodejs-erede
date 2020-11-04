@@ -6,7 +6,7 @@ A intenção deste projeto é desenvolver um pequeno ecommerce, utilizando as te
 
 # Back-end
 - Nodejs
-- MongoDB
+- sqlite3
 - Knex
 - Express
 
