@@ -4,8 +4,8 @@ import ERedeController from './controllers/ERede';
 
 const routes = express.Router();
 
-routes.get('/authorize', ERedeController.authorizeTransaction);
-routes.get('/cancel', ERedeController.cancelTransaction);
-routes.get('/create', ERedeController.createTransaction);
+routes.post('/createTransaction', ERedeController.createTransaction);
+routes.get('/cancelTransaction', ERedeController.cancelTransaction);
+routes.get('/showTransaction', ERedeController.showTransaction);
 
 export default routes;
