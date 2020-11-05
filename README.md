@@ -10,7 +10,7 @@ A intenção deste projeto é desenvolver um pequeno ecommerce, utilizando as te
 - Knex
 - Express
 
-# Front-end (colocarei o link do repositório assim que começar a desenvolver)
+# Front-end (https://github.com/lguilherme44/reactjs-erede.git)
 - ReactJs
 - styled-components
 - axios
